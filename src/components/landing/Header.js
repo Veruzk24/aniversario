@@ -1,11 +1,10 @@
 const navItems = [
-  { href: "#inicio", label: "Inicio" },
-  { href: "#timeline", label: "Nuestra historia" },
-  { href: "#suenos", label: "Sueños juntas" },
-  { href: "#cupones", label: "Cupones" },
-  { href: "#playlist", label: "Playlist" },
-  { href: "#galeria", label: "Galeria" },
-  { href: "#final", label: "Para siempre" },
+  { href: '#inicio', label: 'Inicio' },
+  { href: '#timeline', label: 'Nuestra historia' },
+  { href: '#suenos', label: 'Sueños juntas' },
+  { href: '#cupones', label: 'Cupones' },
+  { href: '#playlist', label: 'Playlist' },
+  { href: '#galeria', label: 'Galeria' },
 ];
 
 export default function Header() {
