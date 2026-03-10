@@ -1,0 +1,28 @@
+{
+  "name": "aniversario",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page de aniversario con Next.js y React.",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "nextjs",
+    "landing-page",
+    "aniversario"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.1.6"
+  }
+}
